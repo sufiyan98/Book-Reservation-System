@@ -1,0 +1,4 @@
+com\demo\spring\config\WebConfig.class
+com\demo\spring\model\Book.class
+com\demo\spring\config\MyWebAppInitializer.class
+com\demo\spring\config\AppConfig.class
